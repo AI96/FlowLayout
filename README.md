@@ -1,2 +1,2 @@
 ## 流布局
-![icon](art/flowlayout.gif)
+![icon](art/GIF.gif)
